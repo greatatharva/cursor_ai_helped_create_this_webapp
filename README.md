@@ -1,3 +1,5 @@
+So basicaly this is the first time creating webpage through a Cursor AI and looking forward to see how it turns out
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
