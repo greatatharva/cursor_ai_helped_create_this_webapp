@@ -1,4 +1,5 @@
 So basicaly this is the first time creating webpage through a Cursor AI and looking forward to see how it turns out
+the website ig - https://cursor-ai-helped-create-this.web.app
 
 # Getting Started with Create React App
 
