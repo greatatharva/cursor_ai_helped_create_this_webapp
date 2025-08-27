@@ -1,7 +1,8 @@
 {
-  "name": "cursor_ai_helped_create_this",
-  "version": "0.1.0",
+  "name": "atharva-resume-portfolio",
+  "version": "1.0.0",
   "private": true,
+  "description": "Atharva Khadilkar's Professional Resume & Portfolio Website",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.8.0",
